@@ -62,6 +62,3 @@ There are 4 layers in the project: Data, Domain, Entity and  UI layer that conta
 
 [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-
-# Trending Github Client App
-# TrendingGithubRepoApp
