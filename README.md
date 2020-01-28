@@ -1,6 +1,4 @@
-# android-test-nur
-
-***Android Client for Trending Github Repositories***
+# Android Client for Trending Github Repositories
 
 * Android Architecture Components: 
     ViewModel , 
