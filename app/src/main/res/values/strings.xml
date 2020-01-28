@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trending Repo Client</string>
+    <string name="action_sign_in">Sign in with Github</string>
+
+    <string name="title_fork_count">Fork count: %1$d</string>
+    <string name="title_score_count">Score: %1$s</string>
+    <string name="title_watcher_count">Watchers count: %1$d</string>
+    <string name="title_open_issue_count">Open issue count: %1$d</string>
+</resources>

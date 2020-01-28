@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400820177141",
+    "firebase_url": "https://trending-github-repo.firebaseio.com",
+    "project_id": "trending-github-repo",
+    "storage_bucket": "trending-github-repo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400820177141:android:0c118008dfa439c79f9dbc",
+        "android_client_info": {
+          "package_name": "com.androidapp.trendingrepoclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400820177141-lncmg2795bru0mno960cgq3m1govgd3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidapp.trendingrepoclient",
+            "certificate_hash": "31fac2109684cf88e2103f674ce6dd3c7c47e7c2"
+          }
+        },
+        {
+          "client_id": "400820177141-4p5ke21eoiljcg9n9au64v5pahs5drdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1Fd8ZA5r_KJt1P3dIPwJ2zuXXgV5EFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400820177141-4p5ke21eoiljcg9n9au64v5pahs5drdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
