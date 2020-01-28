@@ -11,6 +11,6 @@ import retrofit2.http.Query
 
 interface GithubApi {
 
-    @GET("search/repositories?q=android%20&sort=stars&order=desc?client_id=9eda4a2e03a7e75bb5dd&client_secret=7f416b999a5950815475757750388cd13ab5f4fd")
+    @GET("search/repositories?q=android%20&sort=stars&order=desc")
     fun getRepositories(@Query("page") page: Int, @Query("per_page") per_page: Int): Call<GitResponse>
 }
